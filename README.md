@@ -3,9 +3,13 @@
 To create programs that are maintainable, readable, and adaptable, it is crucial to apply software development principles and practices. Some of the key principles and practices I used in my project include:
 
 Modularization
+
 Reusable Functions
+
 Documentation
+
 Error Handling
+
 For this project, I used Jupyter Notebook to create the CRUD Python Module, which manipulates the "animal" collection in the "Austin Animal Center" (AAC) database. Using Jupyter or other IDEs, along with PyMongo to access and manipulate data, is a much more practical approach compared to writing commands directly in the MongoDB shell. By creating the module, I not only simplified handling large datasets but also laid the foundation for a user-friendly dashboard. This dashboard can be used by both future users and developers to access and manipulate data more efficiently.
 
 As a computer scientist, my development process starts with gathering all available project information and requirements. I focus on planning ahead and collecting as much relevant information as possible to minimize the need for searching for missing details during the development phase. While encountering challenges is inevitable, having a solid understanding of the project beforehand helps me maintain a state of flow throughout the development process.
